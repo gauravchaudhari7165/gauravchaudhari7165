@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <h3><a href="https://github.com/gauravchaudhari7165#about-me" >About Me</a></h3>
 
 - 🎓 I am a 2024 passout CS student.
-- 🛠️ Linux admin and DevOps engineer.
 - 📚 Currently doing CDAC in HPCSA where I learn:
     - Linux
     - Python
