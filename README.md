@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 <h3><a href="https://github.com/gauravchaudhari7165#about-me" >About Me</a></h3>
 
-- 🎓 I am a 2024 passout CSE student.
+- 🎓 I am a 2024 passout CS student.
+- 🛠️ Linux admin and DevOps engineer.
 - 📚 Currently doing CDAC in HPCSA where I learn:
     - Linux
     - Python
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
     - Cloud
     - DevOps
     - HPC
-- 🚀 Looking for roles in DevOps, Linux administration,Cloud and Networking.
+- 🚀 Looking for roles in DevOps, Linux administration, and networking.
 
 <!-- - 🌱 I’m an emerging full-stack developer trying to specialize in React, Express, Node, Flask, Python
 - 👩🏻‍💻 Currently volunteering at [HackForLA](https://www.hackforla.org) as a frontend developer
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
 - Backend: Node.js, Express.js, Django -->
 - Database: MySQL
 - Version Control System: Git and GitHub
-- Operating Systems: Windows, Linux , Mac
+- Operating Systems: Windows, Linux
 - Cloud Technologies: AWS, Google Cloud Engine
 
 <!-- <h3><a href="https://github.com/gauravchaudhari7165#other-skills" >Other Skills</a></h3>
@@ -56,7 +57,7 @@ Here are some ideas to get you started:
 
 [![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravchaudhari7165&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravchaudhari7165&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravchaudhari7165&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3><a href="https://github.com/gauravchaudhari7165#projects" >Projects</a></h3>
 
@@ -70,7 +71,7 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me: [Email](mailto:your-email@example.com) -->
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/gauravchaudhari7165/)
 <!-- - 🌐 Portfolio: [Your Portfolio](https://your-portfolio.com) -->
-<!-- - 📄 Resume: [Resume](https://drive.google.com/your-resume-link) -->
+- 📄 Resume: [Resume](https://drive.google.com/your-resume-link)
 
 <hr>
 
