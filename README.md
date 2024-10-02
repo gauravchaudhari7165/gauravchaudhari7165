@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - Backend: Node.js, Express.js, Django -->
 - Database: MySQL
 - Version Control System: Git and GitHub
-- Operating Systems: Windows, Linux
+- Operating Systems: Windows, Linux , Mac
 - Cloud Technologies: AWS, Google Cloud Engine
 
 <!-- <h3><a href="https://github.com/gauravchaudhari7165#other-skills" >Other Skills</a></h3>
