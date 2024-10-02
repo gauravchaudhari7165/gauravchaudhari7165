@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 <h3><a href="https://github.com/gauravchaudhari7165#projects" >Projects</a></h3>
 
-- [Image Captioning with GRU and EfficientNetV2B0](https://github.com/gauravchaudhari7165/image-captioning):
+- [Image Captioning with GRU and EfficientNetV2B0](https://github.com/gauravchaudhari7165/Image-Captioning):
  A deep neural network-based framework using a GRU decoder and an EfficientNetV2B0-based CNN encoder for automatic picture captioning. The model is trained and evaluated on datasets like Flickr-8k and Flickr-30k, implemented with Python-Keras and TensorFlow.
 <!-- - [Project 2](https://github.com/gauravchaudhari7165/project2): Brief description of project 2.
 - [Project 3](https://github.com/gauravchaudhari7165/project3): Brief description of project 3. -->
@@ -69,5 +69,6 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me: [Email](mailto:your-email@example.com) -->
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/gauravchaudhari7165/)
 <!-- - 🌐 Portfolio: [Your Portfolio](https://your-portfolio.com) -->
+<!-- - 📄 Resume: [Resume](https://drive.google.com/your-resume-link) -->
 
 <hr>
