@@ -1,5 +1,5 @@
 ## Hi there 👋
-```markdown
+
 <!--
 **gauravchaudhari7165/gauravchaudhari7165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -69,7 +69,6 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me: [Email](mailto:your-email@example.com) -->
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/gauravchaudhari7165/)
 <!-- - 🌐 Portfolio: [Your Portfolio](https://your-portfolio.com) -->
-<!-- - 📄 Resume: [Resume](https://drive.google.com/your-resume-link) -->
+- 📄 Resume: [Resume](https://drive.google.com/your-resume-link)
 
 <hr>
-```
