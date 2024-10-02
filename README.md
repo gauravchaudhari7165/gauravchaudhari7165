@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     - Cloud
     - DevOps
     - HPC
-- 🚀 Looking for roles in DevOps, Linux administration, and networking.
+- 🚀 Looking for roles in DevOps, Linux administration,Cloud and Networking.
 
 <!-- - 🌱 I’m an emerging full-stack developer trying to specialize in React, Express, Node, Flask, Python
 - 👩🏻‍💻 Currently volunteering at [HackForLA](https://www.hackforla.org) as a frontend developer
